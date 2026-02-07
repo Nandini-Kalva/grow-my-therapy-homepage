@@ -21,7 +21,7 @@ export default function ContactPage() {
             enough.
           </p>
 
-         <Link href="/book">
+         <Link href="/consulting">
           <button className="bg-purple-700 text-white px-8 py-4 rounded-lg text-lg hover:bg-purple-800 transition">
             Book a Consultation
           </button>

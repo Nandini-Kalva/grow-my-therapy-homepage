@@ -14,14 +14,11 @@ export default function CTA() {
       </p>
 
       
-     <Link href="/consulting">
+     <Link href="/contact">
   <button className="bg-purple-700 text-white px-8 py-4 rounded-lg bg-pink-600 text-white px-8 py-4 rounded-lg text-lg font-medium hover:bg-blue-800 shadow-md hover:scale-105 hover:shadow-lg transition tranform">
-    Book a Consultation
+   Connect
   </button>
-</Link>
-
-
-    
+</Link> 
     </section>
   );
 }

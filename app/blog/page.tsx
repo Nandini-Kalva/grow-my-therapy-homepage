@@ -58,7 +58,7 @@ export default function BlogPage() {
           </div>
         </div>
 
-        {/* Card 3 */}
+       
         <div className="bg-white rounded-2xl overflow-hidden shadow-sm">
           <Image
             src="/blog3.jpg"

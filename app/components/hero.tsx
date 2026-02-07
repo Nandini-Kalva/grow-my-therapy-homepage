@@ -24,7 +24,7 @@ export default function Hero() {
 
           <div className="flex-1">
             <Image
-              src="/bookn.png"
+              src="/book-hero.jpg"
               alt="Therapy session illustration"
               width={400}
               height={400}
@@ -41,7 +41,3 @@ export default function Hero() {
 
 
 
-
-<button className="">
-              Get Started
-            </button>
